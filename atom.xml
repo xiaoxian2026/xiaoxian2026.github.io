@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://06nw15.coding-pages.com/</id>
+    <id>http://ljn39f.coding-pages.com/</id>
     <title>Gridea</title>
-    <updated>2020-03-28T10:36:40.444Z</updated>
+    <updated>2020-03-28T11:14:55.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://06nw15.coding-pages.com/"/>
-    <link rel="self" href="http://06nw15.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="http://ljn39f.coding-pages.com/"/>
+    <link rel="self" href="http://ljn39f.coding-pages.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://06nw15.coding-pages.com/images/avatar.png</logo>
-    <icon>http://06nw15.coding-pages.com/favicon.ico</icon>
+    <logo>http://ljn39f.coding-pages.com/images/avatar.png</logo>
+    <icon>http://ljn39f.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>http://06nw15.coding-pages.com/post/ce-shi/</id>
-        <link href="http://06nw15.coding-pages.com/post/ce-shi/">
+        <id>http://ljn39f.coding-pages.com/post/ce-shi/</id>
+        <link href="http://ljn39f.coding-pages.com/post/ce-shi/">
         </link>
         <updated>2020-03-28T10:28:30.000Z</updated>
         <content type="html"><![CDATA[<p>测试</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://06nw15.coding-pages.com/post/hello-gridea/</id>
-        <link href="http://06nw15.coding-pages.com/post/hello-gridea/">
+        <id>http://ljn39f.coding-pages.com/post/hello-gridea/</id>
+        <link href="http://ljn39f.coding-pages.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
