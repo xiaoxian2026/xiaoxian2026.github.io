@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-03-29T05:18:24.454Z</updated>
+    <updated>2020-03-29T05:20:01.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[金山打字通打卡]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/打字/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/打字/">
+        </link>
+        <updated>2020-03-29T05:13:07.000Z</updated>
+        <content type="html"><![CDATA[<p>20-3-29 大概是上次练过，速度比以前快一点，但还是对键位不是很熟悉，打快就非常容易打错。还是要多练一下键位。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本站说明]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/本站说明/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/本站说明/">
+        </link>
+        <updated>2020-03-29T04:19:41.000Z</updated>
+        <content type="html"><![CDATA[<p>用来学习和分享资源的小站。资源用369等网盘分享。<br>
+记录学习情况，总结一些知识点，阅读后的读书笔记。<br>
+漫画更新，只要有合适的网站和下载工具，就开更。<br>
+练打字速度记录贴。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://vz9s5k.coding-pages.com/post/ce-shi/</id>
