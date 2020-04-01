@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-03-31T16:31:23.784Z</updated>
+    <updated>2020-04-01T16:18:13.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[大学计划-阅读打卡]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/da-xue-ji-hua-yue-du-da-qia/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/da-xue-ji-hua-yue-du-da-qia/">
+        </link>
+        <updated>2020-04-01T12:59:42.000Z</updated>
+        <content type="html"><![CDATA[<p>固定时间是晚上十点左右开始。从半个小时练起。<br>
+2020-4-1 《如何阅读一本书》第二次阅读，之前也没读完。现在准备用第一个方法来阅读。坚持一段时间，总结一下，看看成果。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[记录一次超级不想去的大赛]]></title>
         <id>https://vz9s5k.coding-pages.com/post/ji-lu-yi-ci-chao-ji-bu-xiang-qu-de-da-sai-da-sai/</id>
@@ -30,7 +40,8 @@
         </link>
         <updated>2020-03-29T05:13:07.000Z</updated>
         <content type="html"><![CDATA[<p>20-3-29 大概是上次练过，速度比以前快一点，但还是对键位不是很熟悉，打快就非常容易打错。还是要多练一下键位。<br>
-20-3-31 放在基准键上下移动，再回到基准键，这样才是最难适应的。尤其是金山打字通的键位练习，就没提示要一直把手指放在基准键上，去打字，打完再放回去。只是这样练习很难把速度提上去。果然并不是一件简单的事，需要很长时间才能适应这样打字。键位练习还是需要多加练习。</p>
+20-3-31 放在基准键上下移动，再回到基准键，这样才是最难适应的。尤其是金山打字通的键位练习，就没提示要一直把手指放在基准键上，去打字，打完再放回去。只是这样练习很难把速度提上去。果然并不是一件简单的事，需要很长时间才能适应这样打字。键位练习还是需要多加练习。<br>
+20-4-1 今天练的比之前稍微多一点，速度提升慢，倒是比之前适应一点，可能还需要几个月的时间才能稍快一点。</p>
 ]]></content>
     </entry>
     <entry>
@@ -46,12 +57,29 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
+        <title type="html"><![CDATA[一个大学小小的计划表]]></title>
         <id>https://vz9s5k.coding-pages.com/post/ce-shi/</id>
         <link href="https://vz9s5k.coding-pages.com/post/ce-shi/">
         </link>
         <updated>2020-03-28T13:38:42.000Z</updated>
-        <content type="html"><![CDATA[<p>测试</p>
+        <content type="html"><![CDATA[<pre><code> 本来我是打算直接把表发上来，但是这软件好像没有表格功能。只能直接打了。
+ 早上有空就把计划表给打上去，希望能够一个一个的养成习惯，就按照昨天看的如何高效学习视频去做。固定的时间固定的地点去做固定的事，坚持一周，看效果如何。
+ 一开始是打算坚持做六件事，但是30号没有坚持打字，因此，先做一件事，其他五件事可以不坚持做，能坚持做就做，不会那么严格，主要是一下子要养成那么多的习惯，会很累，很难坚持住，之前的计划表都是这样凉的。
+ 还有就是开学的时候，计划会有很大的变动，到时候又要重新调整，会很麻烦。同时坚持很多习惯，是不易的，现在更需要坚持一件事，把之前的漏洞补上，再坚持下一件事就会容易很多。
+ 希望下个学期可以做好更多的事，做好必要之事，做好想做之事。
+</code></pre>
+<p>一            二           三           四          五          六         日<br>
+pc日常    ~</p>
+<p>英语        ~<br>
+画画        ~<br>
+英语        ~<br>
+打字        ~<br>
+锻炼        ~<br>
+预习复习 ~<br>
+财会        ~<br>
+阅读        ~<br>
+写作        ~<br>
+暂时就这些。因为文笔不好，所以打算先提高阅读理解能力。坚持阅读是现在的重点。</p>
 ]]></content>
     </entry>
     <entry>
