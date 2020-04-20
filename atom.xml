@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-04-16T14:25:40.094Z</updated>
+    <updated>2020-04-20T16:44:25.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[阅读打卡贴]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/yue-du-da-qia-tie/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/yue-du-da-qia-tie/">
+        </link>
+        <updated>2020-04-20T16:31:04.000Z</updated>
+        <content type="html"><![CDATA[<p>2020年4月20日   还是那本书，如何阅读一本书，现在终于看到方法篇了，接下来就可以看其他书了，当然是要根据新的方法来看书了。等熟悉以后再回来看这本书，现在最需要的还是管好自己，尽快学会计划要学的东西，接下来就是灵活运用。学会了就算完成一个子计划了。至少阅读，打字和考试不能放弃。打字速度太慢，理解能力差都会影响后续计划，而考试绝对不能挂科，后果非常严重。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[练字打卡贴]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/lian-zi-da-qia-tie/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/lian-zi-da-qia-tie/">
+        </link>
+        <updated>2020-04-20T12:03:10.000Z</updated>
+        <content type="html"><![CDATA[<p>2020年4月20日    今天只练了asdfjkl；  ，之所以只练这么多，是因为效果并不怎么好，慢又容易错，现在加强对键位的练习，速度快一点，慢慢的提高正确率。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[练字和阅读都要补上]]></title>
         <id>https://vz9s5k.coding-pages.com/post/lian-zi-he-yue-du-du-yao-bu-shang/</id>
@@ -98,64 +116,6 @@
 记录学习情况，总结一些知识点，阅读后的读书笔记。<br>
 漫画更新，只要有合适的网站和下载工具，就开更。<br>
 练打字速度记录贴。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个大学小小的计划表]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/ce-shi/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/ce-shi/">
-        </link>
-        <updated>2020-03-28T13:38:42.000Z</updated>
-        <content type="html"><![CDATA[<pre><code> 本来我是打算直接把表发上来，但是这软件好像没有表格功能。只能直接打了。
- 早上有空就把计划表给打上去，希望能够一个一个的养成习惯，就按照昨天看的如何高效学习视频去做。固定的时间固定的地点去做固定的事，坚持一周，看效果如何。
- 一开始是打算坚持做六件事，但是30号没有坚持打字，因此，先做一件事，其他五件事可以不坚持做，能坚持做就做，不会那么严格，主要是一下子要养成那么多的习惯，会很累，很难坚持住，之前的计划表都是这样凉的。
- 还有就是开学的时候，计划会有很大的变动，到时候又要重新调整，会很麻烦。同时坚持很多习惯，是不易的，现在更需要坚持一件事，把之前的漏洞补上，再坚持下一件事就会容易很多。
- 希望下个学期可以做好更多的事，做好必要之事，做好想做之事。
-</code></pre>
-<p>一            二           三           四          五          六         日<br>
-pc日常    ~</p>
-<p>英语        ~<br>
-画画        ~<br>
-英语        ~<br>
-打字        ~<br>
-锻炼        ~<br>
-预习复习 ~<br>
-财会        ~<br>
-阅读        ~<br>
-写作        ~<br>
-暂时就这些。因为文笔不好，所以打算先提高阅读理解能力。坚持阅读是现在的重点。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/hello-gridea/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
