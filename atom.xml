@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-09-11T15:29:09.510Z</updated>
+    <updated>2020-09-11T16:53:58.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[快要毕业的大学]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/kuai-yao-bi-ye-de-da-xue/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/kuai-yao-bi-ye-de-da-xue/">
+        </link>
+        <updated>2020-09-11T15:29:27.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>最后一年，快要实习了，希望实习时不要遇到任何麻烦，最好还是在自家公司上班，身体不行，深圳节奏快，还是命重要。</li>
+<li>之前因各种原因，没能坚持下去，现在又要重新制作新的计划，不能确保足够科学，但也算是能够坚持的一个计划了。希望能坚持下去。毕业前最后一次的挣扎，确实应当认真起来了，没有任何不坚持下去的理由。</li>
+<li>计划大概是这样：<br>
+1.打字速度的修炼：尽可能的坚持每天打字，坚持字母键位的练习，再进行文章的练习。总感觉拼音得重学了，因为忘了太多拼音，速度受到了一定影响。经常打字，速度慢太耗时间，也因阅读理解力的影响，思考时间稍长，速度自然就慢了下来，因此，打字作为第一个计划是很有必要的。<br>
+2.阅读力的修炼：阅读理解力仍有很大的提升空间，这个补丁很重要，但也只能通过看书提升，时间上稍久，毕业前至少看完两本书吧。<br>
+3.英语：学习编程很需要，已经在用anki制卡了，接下来只要坚持背单词，读短文就好了。<br>
+4.写作：作为阅读力修炼的子计划，据说坚持每天写点什么，对阅读理解的修炼很有帮助，因而很有必要写点什么。<br>
+5.HTML：之前就有这个计划，因为，英语，打字速度慢，难以坚持下去。即将毕业，还是要把HTML学会。据说5天能学会，光打代码，都很耗时间，感觉主要还是复制粘贴，省下了这许多时间。<br>
+6.平板支撑：渐渐熟悉正确姿势，坚持每天30S。身体恢复了，学习力也会跟着提高。<br>
+7.学校的课程：不能挂科，打算用anki辅助练习。<br>
+8.画画：一直想画各种喜欢的角色，但总因画技不行而放弃。即将毕业，总要画好个角色留给自己吧。打算坚持下去。<br>
+-回到宿舍，发现还有好多好多烟没碰过，想着在毕业前全抽完。就这样，用一个坏习惯养成一个又一个的好习惯，这样其实也不错，这个坏习惯，对我来说并不难戒。<br>
+就用烟来帮助我坚持每一个好习惯好了，毕业之后也许再也不会碰烟了，所以这可能是最后一次，就让我再放纵一次，只不过这次是真的用在了习惯上。抽烟的确能让我更能集中注意力，或许对我来说是一个恰到好处的方法。<br>
+-临近毕业，只想多做些一些想做的事，又有点担心忘了，犹豫了或是想偷懒了，只好用香烟激励自己，坚持到最后，说不定毕业前真的能全做到。真是那样就好了，就让香烟指引我前进，只属于我的方向，朝那前进。</li>
+<li>最后，就看看到底能不能用一个坏习惯来拯救我自己，毕业就知道了，也许真的有用吧，只是ank制卡真的太麻烦了。也许该简单点，只要能记住就行了。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金山打字通打卡]]></title>
         <id>https://vz9s5k.coding-pages.com/post/打字/</id>
