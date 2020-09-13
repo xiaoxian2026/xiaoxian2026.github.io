@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-09-11T18:11:27.621Z</updated>
+    <updated>2020-09-13T05:36:10.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[2T机械硬盘+WIN7系统]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/2t-ji-jie-ying-pan-win7-xi-tong/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/2t-ji-jie-ying-pan-win7-xi-tong/">
+        </link>
+        <updated>2020-09-12T07:15:23.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>最近电脑系统有点问题，网盘文件还没上传完，拖到今天，今天大概是可以重装了，受网络影响，全部处理好，到晚上大概行吧。</li>
+<li>刚买的机械硬盘换上，不出问题，就要考虑分区了，最后还要装上一些其他软件，还要从网盘下载，有点耗时。</li>
+<li>正好可以练习打字或做点别的。</li>
+<li>没想到竟然要这么久，拖到第二天，还没重装。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[绘画的开心修炼日常]]></title>
         <id>https://vz9s5k.coding-pages.com/post/hui-hua-de-kai-xin-xiu-lian-ri-chang/</id>
@@ -135,16 +149,6 @@
 -临近毕业，只想多做些一些想做的事，又有点担心忘了，犹豫了或是想偷懒了，只好用香烟激励自己，坚持到最后，说不定毕业前真的能全做到。真是那样就好了，就让香烟指引我前进，只属于我的方向，朝那前进。</li>
 <li>最后，就看看到底能不能用一个坏习惯来拯救我自己，毕业就知道了，也许真的有用吧，只是ank制卡真的太麻烦了。也许该简单点，只要能记住就行了。</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本站说明]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/本站说明/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/本站说明/">
-        </link>
-        <updated>2020-03-29T04:19:41.000Z</updated>
-        <content type="html"><![CDATA[<p>用来学习和不定期分享资源的小站。资源用369等网盘分享。<br>
-记录学习情况，总结一些知识点，阅读后的读书笔记。</p>
 ]]></content>
     </entry>
 </feed>
