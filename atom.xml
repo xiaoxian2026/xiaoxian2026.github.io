@@ -2,144 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2020-09-19T08:37:52.091Z</updated>
+    <updated>2021-01-25T15:38:11.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
     <subtitle>用来分享资源和学习</subtitle>
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 硝弦2020</rights>
+    <rights>All rights reserved 2021, 硝弦2020</rights>
     <entry>
-        <title type="html"><![CDATA[尝试制作一些单文件]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/chang-shi-zhi-zuo-yi-xie-dan-wen-jian/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/chang-shi-zhi-zuo-yi-xie-dan-wen-jian/">
+        <title type="html"><![CDATA[本站说明]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/本站说明/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/本站说明/">
         </link>
-        <updated>2020-09-18T18:20:28.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>可以是游戏，也可以是常用的软件。都可以制作单文件。</li>
-<li>每周更新一次公告，大概能制作7个单文件，主要是有些单文件没那么容易制作，而且没那么多文件可以用来制作单文件。找文件需要点时间，测试也需要时间。</li>
-</ul>
+        <updated>2020-03-29T04:19:41.000Z</updated>
+        <content type="html"><![CDATA[<p>用来学习和不定期分享资源的小站。资源用369等网盘分享。<br>
+记录学习情况，总结一些知识点，阅读后的读书笔记。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[anki制读书笔记语音库]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/anki-zhi-hao-ci-hao-ju-ku/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/anki-zhi-hao-ci-hao-ju-ku/">
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/hello-gridea/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/hello-gridea/">
         </link>
-        <updated>2020-09-18T18:12:27.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>通过各种软件找的好词好句，再用朗读女生成语音，录入anki，达到强化行动力的作用。</li>
-<li>每周更新一次公告，一周应该能更二十句，考虑到还有其他事情要做，暂时二十句，再根据情况适当变动。</li>
-<li>制作的读书笔记每天循环，大概可以提高理解能力，可以坚持下去。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anki制作音乐库]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/anki-zhi-zuo-yin-le-ku/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/anki-zhi-zuo-yin-le-ku/">
-        </link>
-        <updated>2020-09-18T17:59:43.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>先准备好歌曲文件，再制作歌词，最后录入anki，再加上一些听歌的想法。</li>
-<li>打算先制作硬盘里歌曲的歌词，时间轴慢慢修改，还是得先打词。到时候再一周更新一次公告，一周大概能更十首，主要还是靠找，纯打太难。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电脑课的文本和单文件游戏的制作]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/dian-nao-ke-de-wen-ben-he-dan-wen-jian-you-xi-de-zhi-zuo/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/dian-nao-ke-de-wen-ben-he-dan-wen-jian-you-xi-de-zhi-zuo/">
-        </link>
-        <updated>2020-09-18T17:47:37.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>之前上课，网址都是等发，账号密码都是手输，实在是太麻烦了。今天就把网址和账户密码整合成一个文本，可以省去很多时间。</li>
-<li>最近看到，有单文件的制作软件，之前就想整一个，一直没去找软件，现在偶然找到了，打算用来制作一些小游戏，和一些常用软件。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一段话的记录日常（语音文本）]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/yi-duan-hua-de-ji-lu-ri-chang-yu-yin-wen-ben/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/yi-duan-hua-de-ji-lu-ri-chang-yu-yin-wen-ben/">
-        </link>
-        <updated>2020-09-17T16:55:52.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>通过各种app找的一些有趣的句子，全纪录在此，用朗读女循环播放，借此提高行动力，顺便提高阅读力，适当整一些英语句子，全当积累，最后再来制作一些歌词，和歌曲一并录入anki。</li>
-<li></li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2T机械硬盘+WIN7系统]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/2t-ji-jie-ying-pan-win7-xi-tong/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/2t-ji-jie-ying-pan-win7-xi-tong/">
-        </link>
-        <updated>2020-09-12T07:15:23.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>最近电脑系统有点问题，网盘文件还没上传完，拖到今天，今天大概是可以重装了，受网络影响，全部处理好，到晚上大概行吧。</li>
-<li>刚买的机械硬盘换上，不出问题，就要考虑分区了，最后还要装上一些其他软件，还要从网盘下载，有点耗时。</li>
-<li>正好可以练习打字或做点别的。</li>
-<li>没想到竟然要这么久，拖到第二天，还没重装。</li>
-<li>经过多次失败以后，总算重装成功了。主要是装驱动总失败，大概是没及时重启，和软件有冲突，导致的系统无法正常启动，多次重装以后，可以正常使用了，电脑课的软件也可以装了，可以按计划进行了。现在还是比较担心身体问题，生病什么的，很难坚持下去。也不能用烟来帮助集中注意力了，只能靠自觉了，除非有什么可以达到好状态的事情。</li>
-<li>避免这个问题，目前只有两个方法：一是：绝对不要生病，平板支撑多练几次。二是：寻找替代品，咖啡什么的，应该也行，从计划里修炼出积极性，不大可能，不是几天几次就能练成的。</li>
-<li>执行计划的同时提高积极性是比较难的，这已经是高阶了，前期还是要靠烟和咖啡，歌曲这类可行的替代品，中期会稍好一点，可能能练出一个高阶，后期，已经稳了，基本上可以戒烟了。前期是最难坚持的，差不多都是0，从0到低阶。中期，从低阶到中阶，已经有一定基础，甚至已初步具备高阶。后期，从中阶到高阶，差不多就是一个实验阶段，基本上可以开始一些新操作。</li>
-<li>目前还是要确保计划的前期，能稳定执行，保证身体的情况下，加强计划的执行力度，甚至可以考虑执行高阶洗脑措施，用一段可行的话重复洗脑，强行提高执行力。</li>
-<li>事实上，找个合适的人监督，基本就稳了，什么前期后期，无所谓。但像我这样的，还是用朗读女洗脑，适度的烟，一些替代品更为合适。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绘画的开心修炼日常]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/hui-hua-de-kai-xin-xiu-lian-ri-chang/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/hui-hua-de-kai-xin-xiu-lian-ri-chang/">
-        </link>
-        <updated>2020-09-11T17:40:01.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>修炼计划<br>
-2020-9-12，根据B站的简单教程学习绘画，先从简笔画开始，每天坚持画画。</li>
-<li>日常打卡</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必修课的痛苦学习日常]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/bi-xiu-ke-de-tong-ku-xue-xi-ri-chang/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/bi-xiu-ke-de-tong-ku-xue-xi-ri-chang/">
-        </link>
-        <updated>2020-09-11T17:34:53.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>修炼计划<br>
-2020-9-12，必修课确实比之前难一点，课本写的不详细，还要另找，就用anki制作知识卡片，主要还是要简单，一般正反面就行，另外找一些已制好的卡，节约时间。</li>
-<li>日常打卡</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平板支撑的修炼日常]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/ping-ban-zhi-cheng-de-xiu-lian-ri-chang/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/ping-ban-zhi-cheng-de-xiu-lian-ri-chang/">
-        </link>
-        <updated>2020-09-11T17:31:59.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>修炼计划<br>
-2020-9-12，每天30S的平板支撑，大概2~3次，主要还是要避免姿势不正确。</li>
-<li>日常打卡</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML的修炼日常]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/html-de-xiu-lian-ri-chang/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/html-de-xiu-lian-ri-chang/">
-        </link>
-        <updated>2020-09-11T17:29:12.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>修炼计划<br>
-2020-9-12，用anki，记录一些代码，根据菜鸟编程的课程来学习HTML，下一些有关的anki卡片。</li>
-<li>日常打卡</li>
-</ul>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
