@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vz9s5k.coding-pages.com/</id>
     <title>硝弦2020</title>
-    <updated>2021-01-25T15:38:11.398Z</updated>
+    <updated>2021-12-17T15:30:04.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
     <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
     <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 硝弦2020</rights>
+    <entry>
+        <title type="html"><![CDATA[对未来的一些看法]]></title>
+        <id>https://vz9s5k.coding-pages.com/post/dui-wei-lai-de-yi-xie-kan-fa/</id>
+        <link href="https://vz9s5k.coding-pages.com/post/dui-wei-lai-de-yi-xie-kan-fa/">
+        </link>
+        <updated>2021-05-22T16:34:25.000Z</updated>
+        <content type="html"><![CDATA[<p>总觉得未来不会很乐观，喜欢的女孩子永远不会喜欢我这件事情，自己是不是也应该学会不去喜欢任何人，或许这辈子都不会有美好的爱情，而这就是我的人生。<br>
+现实是残酷的，许多事情终究不会如你所愿，未来的女朋友或是妻子，真的有那么好的运气遇到一个值得好好珍惜的人么？像是轻音五少女那样美好的妻子，这辈子大概是不会遇到了。即使如此，也应该是择优。稍微外向一点也不错吧，这样的人生不是更应该做自己喜欢做的事情吗？喜欢什么就做什么吧，制定一个计划和目标，一个一个的去实现。女朋友或是妻子，也许只是这种关系，未来也一定和她有着诸多不愉快的事情，因此，在此之前，我得先学会一个人也能很好的打发时间。或许未来还会离婚之类。也应该有些准备吧。<br>
+无论如何，在事情发生之前，做好准备永远是对的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本站说明]]></title>
         <id>https://vz9s5k.coding-pages.com/post/本站说明/</id>
