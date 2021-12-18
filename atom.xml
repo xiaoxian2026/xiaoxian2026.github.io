@@ -1,66 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vz9s5k.coding-pages.com/</id>
-    <title>硝弦2020</title>
-    <updated>2021-12-17T15:30:04.576Z</updated>
+    <id>https://xiaoxian2022.github.io/</id>
+    <title>硝弦2022</title>
+    <updated>2021-12-18T09:12:40.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vz9s5k.coding-pages.com/"/>
-    <link rel="self" href="https://vz9s5k.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://xiaoxian2022.github.io/"/>
+    <link rel="self" href="https://xiaoxian2022.github.io/atom.xml"/>
     <subtitle>用来分享资源和学习</subtitle>
-    <logo>https://vz9s5k.coding-pages.com/images/avatar.png</logo>
-    <icon>https://vz9s5k.coding-pages.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, 硝弦2020</rights>
-    <entry>
-        <title type="html"><![CDATA[对未来的一些看法]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/dui-wei-lai-de-yi-xie-kan-fa/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/dui-wei-lai-de-yi-xie-kan-fa/">
-        </link>
-        <updated>2021-05-22T16:34:25.000Z</updated>
-        <content type="html"><![CDATA[<p>总觉得未来不会很乐观，喜欢的女孩子永远不会喜欢我这件事情，自己是不是也应该学会不去喜欢任何人，或许这辈子都不会有美好的爱情，而这就是我的人生。<br>
-现实是残酷的，许多事情终究不会如你所愿，未来的女朋友或是妻子，真的有那么好的运气遇到一个值得好好珍惜的人么？像是轻音五少女那样美好的妻子，这辈子大概是不会遇到了。即使如此，也应该是择优。稍微外向一点也不错吧，这样的人生不是更应该做自己喜欢做的事情吗？喜欢什么就做什么吧，制定一个计划和目标，一个一个的去实现。女朋友或是妻子，也许只是这种关系，未来也一定和她有着诸多不愉快的事情，因此，在此之前，我得先学会一个人也能很好的打发时间。或许未来还会离婚之类。也应该有些准备吧。<br>
-无论如何，在事情发生之前，做好准备永远是对的。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本站说明]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/本站说明/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/本站说明/">
-        </link>
-        <updated>2020-03-29T04:19:41.000Z</updated>
-        <content type="html"><![CDATA[<p>用来学习和不定期分享资源的小站。资源用369等网盘分享。<br>
-记录学习情况，总结一些知识点，阅读后的读书笔记。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vz9s5k.coding-pages.com/post/hello-gridea/</id>
-        <link href="https://vz9s5k.coding-pages.com/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-]]></content>
-    </entry>
+    <logo>https://xiaoxian2022.github.io/images/avatar.png</logo>
+    <icon>https://xiaoxian2022.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 硝弦2022</rights>
 </feed>
