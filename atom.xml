@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxian2026.github.io</id>
-    <title>硝弦2022</title>
-    <updated>2021-12-18T12:32:37.357Z</updated>
+    <title>硝弦2026</title>
+    <updated>2021-12-18T12:33:42.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxian2026.github.io"/>
     <link rel="self" href="https://xiaoxian2026.github.io/atom.xml"/>
     <subtitle>用来分享资源和学习</subtitle>
     <logo>https://xiaoxian2026.github.io/images/avatar.png</logo>
     <icon>https://xiaoxian2026.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 硝弦2022</rights>
+    <rights>All rights reserved 2021, 硝弦2026</rights>
 </feed>
