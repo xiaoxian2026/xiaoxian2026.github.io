@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaoxian2026.github.io</id>
+    <title>Gridea</title>
+    <updated>2023-09-24T02:02:20.207Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaoxian2026.github.io"/>
+    <link rel="self" href="https://xiaoxian2026.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xiaoxian2026.github.io/images/avatar.png</logo>
+    <icon>https://xiaoxian2026.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[555]]></title>
+        <id>https://xiaoxian2026.github.io/post/555/</id>
+        <link href="https://xiaoxian2026.github.io/post/555/">
+        </link>
+        <updated>2023-09-23T15:03:33.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>
+&lt;h1&gt;5555&lt;/h1&gt;
+</code></pre>
+<p>``</p>
+<h1>5555</h1>
+<p>``</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html-text1]]></title>
+        <id>https://xiaoxian2026.github.io/post/html-text1/</id>
+        <link href="https://xiaoxian2026.github.io/post/html-text1/">
+        </link>
+        <updated>2023-09-23T13:42:34.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>&lt;h1&gt;这是标题 1&lt;/h1&gt;
+&lt;h2&gt;这是标题 2&lt;/h2&gt;
+&lt;h3&gt;这是标题 3&lt;/h3&gt;
+&lt;h4&gt;这是标题 4&lt;/h4&gt;
+&lt;h5&gt;这是标题 5&lt;/h5&gt;
+&lt;h6&gt;这是标题 6&lt;/h6&gt;
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html-1]]></title>
+        <id>https://xiaoxian2026.github.io/post/html1-15/</id>
+        <link href="https://xiaoxian2026.github.io/post/html1-15/">
+        </link>
+        <updated>2023-09-22T11:43:58.000Z</updated>
+        <content type="html"><![CDATA[<p>HTML 标题<br>
+'''html<br>
+&lt;&gt;code;&lt;&gt;<h1>这是标题 1</h1></p>
+<h2>这是标题 2</h2>
+<h3>这是标题 3</h3>
+<h4>这是标题 4</h4>
+<h5>这是标题 5</h5>
+<h6>这是标题 6</h6>&lt;&gt;/code&lt;&gt;
+'''
+HTML 段落
+<p>这是一个段落。</p>
+<p>HTML 链接<br>
+<a href="https://www.runoob.com">这是一个链接使用了 href 属性</a></p>
+<p>HTML 图像<br>
+<img src="/images/logo.png" width="258" height="39" /></p>
+<p>插入图片：<br>
+1、*.html 文件跟 *.jpg 文件(f盘)在不同目录下：</p>
+<img src="file:///f:/*.jpg" width="300" height="120"/>
+2、*.html 文件跟 *.jpg 图片在相同目录下：
+<p><img src="*.jpg" width="300" height="120"/>3、*.html 文件跟 *.jpg 图片在不同目录下：<br>
+a、图片 <em>.jpg 在 image 文件夹中，</em>.html 跟 image 在同一目录下：</p>
+<p>&lt;img src=&quot;image/*.jpg/&quot;width=&quot;300&quot; height=&quot;120&quot;/&gt;<br>
+b、图片 <em>.jpg 在 image 文件夹中，</em>.html 在 connage 文件夹中，image 跟 connage 在同一目录下：</p>
+<p>&lt;img src=&quot;../image/*.jpg/&quot;width=&quot;300&quot; height=&quot;120&quot;/&gt;<br>
+4、如果图片来源于网络，那么写绝对路径：</p>
+<img src="http://static.runoob.com/images/runoob-logo.png" width="300" height="120"/>
+<p>HTML 水平线</p>
+<p>hr 标签定义水平线：</p>
+	<hr />
+	<p>这是段落。</p>
+<p>HTML 注释</p>
+<!--这是一个注释，注释在浏览器中不会显示-->
+<p>标题大小与字体大小的关系</p>
+<h1>这是1号标题</h1>
+<font size="6">这是6号字体文本</font>
+<h2>这是2号标题</h2>
+<font size="5">这是5号字体文本</font>
+<h3>这是3号标题</h3>
+<font size="4">这是4号字体文本</font>
+<h4>这是4号标题</h4>
+<font size="3">这是3号字体文本</font>
+<h5>这是5号标题</h5>
+<font size="2">这是2号字体文本</font>
+<h6>这是6号标题</h6>
+<font size="1">这是1号字体文本</font>
+<p>HTML 折行</p>
+<p>这个<br>段落<br>演示了分行的效果</p>
+<p>HTML 文本格式化<br>
+<b>加粗文本</b><br><br><br>
+<i>斜体文本</i><br><br><br>
+<code>电脑自动输出</code><br><br><br>
+这是 <sub> 下标</sub> 和 <sup> 上标</sup></p>
+<p>文本格式化<br>
+<b>这个文本是加粗的</b></p>
+<br />
+<p><strong>这个文本是加粗的</strong></p>
+<br />
+<p><big>这个文本字体放大</big></p>
+<br />
+<p><em>这个文本是斜体的</em></p>
+<br />
+<p><i>这个文本是斜体的</i></p>
+<br />
+<p><small>这个文本是缩小的</small></p>
+<br />
+<p>这个文本包含<br>
+<sub>下标</sub></p>
+<br />
+<p>这个文本包含<br>
+<sup>上标</sup></p>
+<p>预格式文本</p>
+<pre>
+此例演示如何使用 pre 标签
+对空行和    空格
+进行控制
+</pre>
+<p>&quot;计算机输出&quot;标签<br>
+<code>计算机输出</code><br>
+<br /><br>
+<kbd>键盘输入</kbd><br>
+<br /><br>
+<tt>打字机文本</tt><br>
+<br /><br>
+<samp>计算机代码样本</samp><br>
+<br /><br>
+<var>计算机变量</var><br>
+<br /></p>
+<p>地址</p>
+<address>
+Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+<p>缩写和首字母缩写<br>
+<abbr title="etcetera">etc.</abbr><br>
+<br /><br>
+<acronym title="World Wide Web">WWW</acronym></p>
+<p>文字方向</p>
+<p>该段落文字从左到右显示。</p>  
+<p><bdo dir="rtl">该段落文字从右到左显示。</bdo></p>  
+<p>块引用</p>
+<p>WWF's goal is to: 
+<q>Build a future where people live in harmony with nature.</q>
+We hope they succeed.</p>
+<p>删除字效果和插入字效果</p>
+<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+<p>文本显示为单行，超过部分隐藏并使用省略号</p>
+<div> 
+  文本显示为单行,超过部分隐藏并使用省略号
+  修改 width 属性查看效果。
+</div>
+<style>
+div {
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  width:120px;
+}
+</style>
+<p>CSS display:-webkit-box;</p>
+<div> 
+  文本显示为两行,超过部分隐藏并使用省略号
+  修改 width 属性查看效果。
+</div>
+<style>
+div {
+  display:-webkit-box;
+  text-overflow:ellipsis;
+  overflow:hidden;
+  width:100px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient:vertical;
+}
+</style>
+<p>HTML 链接</p>
+<p>
+<a href="/index.html">本文本</a> 是一个指向本网站中的一个页面的链接。</p>
+<p><a href="http://www.microsoft.com/">本文本</a> 是一个指向万维网上的页面的链接。</p>
+<p>HTML 链接 - target 属性<br>
+&quot;_blank&quot;,链接将在新窗口打开。<br>
+<a href="https://www.runoob.com/" target="_blank">访问菜鸟教程!</a></p>
+<p>图片链接</p>
+<p>创建图片链接:
+<a href="http://www.runoob.com/html/html-tutorial.html">
+<img  border="10" src="smiley.gif" alt="HTML 教程" width="32" height="32"></a></p>
+<p>无边框的图片链接:
+<a href="http://www.runoob.com/html/html-tutorial.html">
+<img border="0" src="smiley.gif" alt="HTML 教程" width="32" height="32"></a></p>
+<p>在当前页面链接到指定位置</p>
+<p>
+<a href="#C4">查看章节 4</a>
+</p>
+<h2>章节 1</h2>
+<p>这边显示该章节的内容……</p>
+<h2>章节 2</h2>
+<p>这边显示该章节的内容……</p>
+<h2>章节 3</h2>
+<p>这边显示该章节的内容……</p>
+<h2><a id="C4">章节 4</a></h2>
+<p>这边显示该章节的内容……</p>
+<p>跳出框架<br>
+<a href="http://www.runoob.com/" target="_top">点击这里!</a></p>
+<p>创建电子邮件链接<br>
+<a href="mailto:someone@example.com?Subject=Hello%20again" target="_top"><br>
+发送邮件</a></p>
+<p>创建电子邮件链接2<br>
+这是另一个电子邮件链接：<br>
+<a href="mailto:someone@example.com?cc=someoneelse@example.com&bcc=andsomeoneelse@example.com&subject=Summer%20Party&body=You%20are%20invited%20to%20a%20big%20summer%20party!" target="_top">发送邮件!</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xiaoxian2026.github.io/post/hello-gridea/</id>
+        <link href="https://xiaoxian2026.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
