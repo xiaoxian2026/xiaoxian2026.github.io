@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://7234.cc.cd/sitemap.xml
+Sitemap: https://xiaoxian2026.github.io/sitemap.xml
